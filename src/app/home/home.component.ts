@@ -18,10 +18,7 @@ import { Component, OnInit } from '@angular/core';
         <p class="text">2018: Studying English. Runa, pre-intermediate level.<br>
         2019: Studying English. SBEDIF, intermediate level. 
         </p>
-  </div>
-      
-
-    
+  </div>    
   `,
   styles:
    [`.someContainer {margin: 20px;}
